@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://pbs.twimg.com/media/GNhTsMFa0AASZhn?format=jpg&name=medium" alt="Random Image" width="600px">
+<img src="https://pbs.twimg.com/media/GNhTsMFa0AASZhn?format=jpg&name=medium" alt="screenshot" width="800px">
 </p>
  
 <h2 align="center" id="technologies">💻 How to use Noirbuddy for VSCODE</h2>
